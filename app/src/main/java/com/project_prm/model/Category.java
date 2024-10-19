@@ -1,4 +1,4 @@
-package model;
+package com.project_prm.model;
 
 public class Category {
     private int Id;
