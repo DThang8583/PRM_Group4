@@ -1,4 +1,4 @@
-package com.project_prm;
+package com.project_prm.view;
 
 import android.os.Bundle;
 
@@ -7,6 +7,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+
+import com.project_prm.R;
 
 public class MainActivity extends AppCompatActivity {
 
