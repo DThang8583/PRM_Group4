@@ -14,9 +14,9 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.resource.bitmap.CenterCrop;
 import com.bumptech.glide.load.resource.bitmap.RoundedCorners;
-import com.example.foodappproject.Activity.DetailActivity;
-import com.example.foodappproject.Domain.Foods;
-import com.example.foodappproject.R;
+import com.project_prm.view.DetailActivity;
+import com.project_prm.model.Foods;
+import com.project_prm.R;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
