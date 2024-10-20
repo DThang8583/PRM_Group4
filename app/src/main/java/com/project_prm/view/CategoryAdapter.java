@@ -13,7 +13,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
 import com.project_prm.model.Category;
-import com.project_prm.foodappproject.R;
+import com.project_prm.R;
 
 import java.util.ArrayList;
 
