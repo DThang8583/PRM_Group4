@@ -1,4 +1,4 @@
-package com.project_prm.view;
+package com.project_prm.Activity;
 
 import android.os.Bundle;
 import android.view.View;
@@ -6,8 +6,8 @@ import android.view.View;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
-import com.project_prm.view.FoodListAdapter;
-import com.project_prm.model.Foods;
+import com.project_prm.Adapter.FoodListAdapter;
+import com.project_prm.Domain.Foods;
 import com.project_prm.databinding.ActivityListFoodBinding;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;

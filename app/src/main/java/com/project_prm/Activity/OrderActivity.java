@@ -1,12 +1,12 @@
-package com.project_prm.view;
+package com.project_prm.Activity;
 
 import android.os.Bundle;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
-import com.project_prm.view.OrderAdapter;
-import com.project_prm.model.Order;
+import com.project_prm.Adapter.OrderAdapter;
+import com.project_prm.Domain.Order;
 import com.project_prm.databinding.ActivityOrderBinding;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;

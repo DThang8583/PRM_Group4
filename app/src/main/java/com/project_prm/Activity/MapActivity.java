@@ -1,4 +1,4 @@
-package com.project_prm.view;
+package com.project_prm.Activity;
 
 import android.location.Address;
 import android.location.Geocoder;

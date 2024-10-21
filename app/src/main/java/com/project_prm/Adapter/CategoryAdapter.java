@@ -1,4 +1,4 @@
-package com.project_prm.view;
+package com.project_prm.Adapter;
 
 import android.content.Context;
 import android.content.Intent;
@@ -12,8 +12,9 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.project_prm.model.Category;
+import com.project_prm.Domain.Category;
 import com.project_prm.R;
+import com.project_prm.Activity.ListFoodActivity;
 
 import java.util.ArrayList;
 
