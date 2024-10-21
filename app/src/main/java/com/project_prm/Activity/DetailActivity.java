@@ -1,4 +1,4 @@
-package com.project_prm.view;
+package com.project_prm.Activity;
 
 import android.os.Bundle;
 
@@ -6,8 +6,8 @@ import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.resource.bitmap.CenterCrop;
 import com.bumptech.glide.load.resource.bitmap.RoundedCorners;
 import com.project_prm.databinding.ActivityDetailBinding;
-import com.project_prm.model.Foods;
-import com.project_prm.model.ManagementCart;
+import com.project_prm.Domain.Foods;
+import com.project_prm.Helper.ManagementCart;
 
 public class DetailActivity extends BaseActivity {
     ActivityDetailBinding binding;

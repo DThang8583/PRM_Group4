@@ -1,4 +1,4 @@
-package com.project_prm.model;
+package com.project_prm.Domain;
 
 public class SliderItems {
     private String image;

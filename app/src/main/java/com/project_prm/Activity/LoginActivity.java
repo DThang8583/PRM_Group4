@@ -1,4 +1,4 @@
-package com.project_prm.view;
+package com.project_prm.Activity;
 
 import android.content.Intent;
 import android.os.Bundle;

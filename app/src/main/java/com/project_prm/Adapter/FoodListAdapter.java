@@ -1,4 +1,4 @@
-package com.project_prm.view;
+package com.project_prm.Adapter;
 
 import android.content.Context;
 import android.content.Intent;
@@ -14,8 +14,8 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.resource.bitmap.CenterCrop;
 import com.bumptech.glide.load.resource.bitmap.RoundedCorners;
-import com.project_prm.view.DetailActivity;
-import com.project_prm.model.Foods;
+import com.project_prm.Activity.DetailActivity;
+import com.project_prm.Domain.Foods;
 
 import com.project_prm.R;
 import com.google.firebase.auth.FirebaseAuth;

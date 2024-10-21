@@ -1,4 +1,4 @@
-package com.project_prm.model;
+package com.project_prm.Domain;
 
 import java.io.Serializable;
 
